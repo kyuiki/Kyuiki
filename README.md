@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome to my Github :D
 
+Hello and welcome to **Qkiemauln** Github. 
+
+- 📝 I'm currently working on project called "**Red Creeper Discord Bot**" which is a discord bot that has moderation for those server who want keep the server clean :D (_I mean the anti-badwords are now more accurate_).
+- 📚 I'm mostly use JavaScript and TypeScript. Im also a Front-End Programmer and for the backend i always use Node and TS Node, but i need to learn more about that to be a good programmer :D.
+- 🖥 Not only programming. I also do **Animation**, **Editing**, and **Visual Effects** using blender 💕
 <!--
 **QkieMauln/QkieMauln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
