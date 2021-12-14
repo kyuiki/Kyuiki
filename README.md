@@ -22,7 +22,7 @@ Hello and welcome to **Qkiemauln** Github.
 
 ![My Own Stat](https://github-readme-stats.vercel.app/api?username=qkiemauln&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
 
-*Profile Picture drawing maded using love by HeyzumNtabs ♥️*
+*Profile Picture drawing made by HeyzumNtabs ♥️*
 <!--
 **QkieMauln/QkieMauln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
