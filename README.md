@@ -21,8 +21,7 @@ Hello and welcome to **Qkiemauln** Github.
 - **[My Instagram](https://instagram.com/qky.m)**
 
 ![My Own Stat](https://github-readme-stats.vercel.app/api?username=qkiemauln&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
-
-*Profile Picture drawing made by HeyzumNtabs ♥️*
+<p align="center"> *Profile Picture drawing made by HeyzumNtabs* ♥️ </p>
 <!--
 **QkieMauln/QkieMauln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
