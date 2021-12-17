@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/barebone.jpg"/>
+
 ## Welcome to my Github :D
 
 
@@ -14,9 +16,8 @@
 </div>
 
 <br/>
-<br/>
 
-#### More?
+#### The More You Know...
 - <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4dd.svg" alt="pen and paper" width="20" height="20"/> I am just 17 Years old boi who love creating something awesome.
 - <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4da.svg" alt="books" width="20" height="20"/> Mostly use <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> TypeScript. So I am basically Front-End Programmer
 - <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f3ae.svg" alt="game" width="20" height="20"/> Usually play minecraft! Bedrock or Java :D My Java name is [Qky_M](https://mine.ly/Qky_M.1), and My Bedrock gamertag is [QkyMauln]()
