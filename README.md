@@ -1,9 +1,10 @@
 <img align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/barebone.jpg"/>
 
-## Welcome to my Github :D
-
-
-### Hello and welcome to **Qkiemauln** Github. 
+<div align="center">
+  
+# Welcome to my Github :D
+  
+</div>
 
 <div align="center">
   
