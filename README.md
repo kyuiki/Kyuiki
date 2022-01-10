@@ -41,6 +41,7 @@
   
   
 ![My Own Stat](https://github-readme-stats.vercel.app/api?username=qkiemauln&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
+![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qkiemauln&theme=tokyonight&langs_count=10)
 
 *Profile Picture drawing made by HeyzumNtabs ♥️*
 
