@@ -46,7 +46,7 @@
 
 <div align="center">
   
-![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qkiemauln&theme=tokyonight&layout=compact&langs_count=10)
+![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qkiemauln&theme=tokyonight&layout=compact&langs_count=8)
   
   
 *Profile Picture drawing made by HeyzumNtabs ♥️*
