@@ -59,8 +59,6 @@
   
 ---
   
-<br/>
-  
 > Thropy
   
 [![Thropy](https://github-profile-trophy.vercel.app/?username=qkiemauln&row=2&column=3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](.)
