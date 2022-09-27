@@ -43,11 +43,27 @@
 
 <br/>
 <br/>
+<br/>
 
 <div align="center">
+
+  ---
+
+> Top Language
   
-![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qkiemauln&theme=tokyonight&layout=compact&langs_count=8)
   
+[![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qkiemauln&theme=tokyonight&layout=compact&langs_count=8)](.)
+  
+  
+<br/>
+  
+---
+  
+<br/>
+  
+> Thropy
+  
+[![Thropy](https://github-profile-trophy.vercel.app/?username=qkiemauln&row=2&column=3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](.)
   
 *Profile Picture drawing made by HeyzumNtabs ♥️*
 
