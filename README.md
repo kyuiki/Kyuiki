@@ -2,9 +2,9 @@
 
 <div align="center">
   
-# QkieMauln's Profile
+# Kyuki's Github
 
->  Male  •  He / Him  •  Furry
+>  Male  •  Fullstack Javascript  •  Animator
   
 </div>
 <br/>
@@ -32,14 +32,14 @@
 |**Animating**||||❌|||
 |**Compositing**|||||❌|| -->
 
-### You can Contact me via
-- **[Joining my discord server](https://discord.gg/dVqm9rrgdr)** (New)
+### Contact me on
+- **[LinkedIn](/)**
 
 
-- ~~**[Joining my discord server](https://discord.gg/j24UKsj)** (Dead Server)~~
+- **[Telegram](/)** 
 
 
-- **[My Instagram](https://instagram.com/qky.m)**
+- **[Whatsapp](/)**
 
 <br/>
 <br/>
