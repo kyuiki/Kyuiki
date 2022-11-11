@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/banner.png"/>
+<!-- <img align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/banner.png"/> -->
 
 <div align="center">
   
