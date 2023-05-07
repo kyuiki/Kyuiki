@@ -12,7 +12,7 @@
 ### The More You Know...
 
 
-- <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4dd.svg" alt="pen and paper" width="20" height="20"/> 18 Years old boi, love doing something awesome.
+- <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4dd.svg" alt="pen and paper" width="20" height="20"/> 19 Years old boi, love doing something awesome.
 
 
 - <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4da.svg" alt="books" width="20" height="20"/> Use <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> TypeScript as daily basis
