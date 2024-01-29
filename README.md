@@ -1,12 +1,10 @@
 <!-- <img align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/banner.png"/> -->
-
-<div align="center">
+![](https://hit.yhype.me/github/profile?user_id=43922147)
   
-# Kyuki's Github
+<img height="128" align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-ky.png"/> 
+<img height="24" align="right" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-desc.png"/> 
+<hr/>
 
->  Male  •  Fullstack Javascript  •  Animator
-  
-</div>
 <br/>
 
 ### The More You Know...
