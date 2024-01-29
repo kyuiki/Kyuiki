@@ -4,22 +4,20 @@
 <img height="128" align="center" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-ky.png"/> 
 <img height="24" align="right" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-desc.png"/> 
 <hr/>
+<div align="center">
+
+[<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-linkedin.png"/>](https://www.linkedin.com/in/rizky-m-354153229/)
+[<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-x.png"/>](https://twitter.com/kyuikiwork/)
+[<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-instagram.png"/>](https://instagram.com/kyuiki.m/)
+
+</div>
 
 <br/>
+<div size=10>
+  
+  <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4dd.svg" alt="pen and paper" width="16" height="16"/> A Fluffy Computer Science student who loves working on inner working of FullStacks Development and UI/UX Engineering. 
 
-### The More You Know...
-
-
-- <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4dd.svg" alt="pen and paper" width="20" height="20"/> 19 Years old boi, love doing something awesome.
-
-
-- <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4da.svg" alt="books" width="20" height="20"/> Use <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> TypeScript as daily basis
-
-
-- <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f5a5.svg" alt="computer" width="20" height="20"/> also do **Animation**, **Editing**, and **Visual Effects** using blender 💕
-
-<br/>
-<br/>
+</div>
 
 <!-- |-|F|E|D|C|B|A|
 |-|-|-|-|-|-|-|
@@ -30,38 +28,14 @@
 |**Animating**||||❌|||
 |**Compositing**|||||❌|| -->
 
-### Contact me on
-- **[LinkedIn](/)**
-
-
-- **[Telegram](/)** 
-
-
-- **[Whatsapp](/)**
-
 <br/>
-<br/>
-<br/>
-
 <div align="center">
 
-  ---
-
-> Top Language
-  
-  
 [![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuiki&theme=tokyonight&layout=compact&langs_count=8)](.)
-  
-  
-<br/>
-  
----
-  
-> Thropy
   
 [![Thropy](https://github-profile-trophy.vercel.app/?username=kyuiki&row=2&column=3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](.)
   
-*Profile Picture drawing made by Myself*
+*Assets drawing made by Myself*
 
 </div>
 <!--
