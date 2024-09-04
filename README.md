@@ -15,7 +15,7 @@
 <br/>
 <div size=10>
   
-  <img src="https://twemoji.maxcdn.com/v/13.1.0/svg/1f4dd.svg" alt="pen and paper" width="16" height="16"/> A Fluffy Computer Science student who loves working on inner working of FullStacks Development and UI/UX Engineering. 
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4dd.svg" alt="pen and paper" width="16" height="16"/> A Fluffy Computer Science student who loves working on inner working of FullStacks Development and UI/UX Engineering. 
 
 </div>
 
