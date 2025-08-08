@@ -8,7 +8,7 @@
 
 [<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-linkedin.png"/>](https://www.linkedin.com/in/rizky-m-354153229/)
 [<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-x.png"/>](https://twitter.com/kyuikiwork/)
-[<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-instagram.png"/>](https://instagram.com/kyuiki.m/)
+[<img height="24" src="https://raw.githubusercontent.com/QkieMauln/QkieMauln/main/assets/git-instagram.png"/>](https://instagram.com/kyuikii/)
 
 </div>
 
