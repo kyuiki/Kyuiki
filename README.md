@@ -31,9 +31,9 @@
 <br/>
 <div align="center">
 
-[![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuiki&theme=tokyonight&layout=compact&langs_count=8)](.)
+[![My Top Language](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kyuiki&theme=tokyonight&layout=compact&langs_count=8)](.)
   
-[![Thropy](https://github-profile-trophy.vercel.app/?username=kyuiki&row=2&column=3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](.)
+[![Thropy](https://trophygh.kolioaris.xyz/?username=kyuiki&row=2&column=3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](.)
   
 *Assets drawing made by Myself*
 
